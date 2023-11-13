@@ -1,13 +1,12 @@
 # Autonomous-Self-Driving-Car
 This project focuses on achieving autonomous navigation for a car using computer vision and Convolutional Neural Networks (CNN). The entire pipeline includes data collection, training on a CNN model, and deployment on the car for real-time navigation through curved paths.
-
 ## Prerequisite
 
-Ensure you have the Sunfounder Picar-X kit. You can find more information and purchase the kit [here](https://docs.sunfounder.com/projects/picar-x/en/latest/).
+Ensure you have the Sunfounder PiCar-X kit. You can find more information and purchase the kit [here](https://docs.sunfounder.com/projects/picar-x/en/latest/).
 
-## Setting up the Sunfounder Picar-X
+## Setting up the Sunfounder PiCar-X
 
-Follow the steps in the [YouTube tutorial](<setup_youtube_link>) to set up your Picar-X for autonomous driving and install all the necessary libraries to run the car.
+Follow the steps in the [YouTube tutorial](<setup_youtube_link>) to set up your PiCar-X for autonomous driving and install all the necessary libraries to run the car.
 
 ## Data Collection
 
